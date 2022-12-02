@@ -37,3 +37,6 @@ const fixedNumber = "21";
 // .6 faccio generare la password
 const newPassword = userName + lastName + favColor + fixedNumber;
 // // console.log(newPassword);
+
+// .7 immetto nel DOM la password generata
+password.innerText = newPassword;
