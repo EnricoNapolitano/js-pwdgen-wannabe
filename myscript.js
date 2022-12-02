@@ -23,3 +23,7 @@ const userName = prompt("Come ti chiami?");
 // .3 Preparo variabile cognome
 const lastName = prompt("Qual è il tuo cognome?");
 // // console.log(lastName);
+
+// .4 Preparo variabile colore preferito
+const favColor = prompt("Scrivi il colore che più ti piace :)");
+// // console.log(favColor);
