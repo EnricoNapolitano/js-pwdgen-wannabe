@@ -18,4 +18,8 @@ const password = document.getElementById("password");
 
 // .2 Preparo variabile nome utente
 const userName = prompt("Come ti chiami?");
-console.log(userName);
+// // console.log(userName);
+
+// .3 Preparo variabile cognome
+const lastName = prompt("Qual è il tuo cognome?");
+// // console.log(lastName);
