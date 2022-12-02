@@ -13,5 +13,9 @@ Infine scrivi sulla pagina nomecognomecolorepreferito21
 // .6 immetto nel DOM la password generata
 
 // .1 Prendo l'elemento dal DOM
-const epassword = document.getElementById("password");
-console.log(epassword);
+const password = document.getElementById("password");
+// // console.log(password);
+
+// .2 Preparo variabile nome utente
+const userName = prompt("Come ti chiami?");
+console.log(userName);
