@@ -33,3 +33,7 @@ const favColor = prompt("Scrivi il colore che più ti piace :)");
 // .5 Creo variabile constante con valore di tipo stringa "21"
 const fixedNumber = "21";
 // // console.log(fixedNumber);
+
+// .6 faccio generare la password
+const newPassword = userName + lastName + favColor + fixedNumber;
+// // console.log(newPassword);
